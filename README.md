@@ -47,8 +47,8 @@ I want to show you a web development project that I have carried out, with the p
 Clone this repo
 
 ```
-git clone https://github.com/gab0071/web-development--project
-cd web-development--project
+git clone https://github.com/catherinee24/Web-developer-project
+cd Web-developer-project
 ```
 Then install dependencies
 
