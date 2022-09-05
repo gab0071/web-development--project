@@ -47,7 +47,7 @@ Feel free to do them if you want to improve even more in programming and if you 
 Clone this repo
 
 ```
-git clone https://github.com/gab0071/Web-Development-Project
+git clone https://github.com/catherinee24/Web-developer-project
 cd Web-Development-Project
 ```
 Then install dependencies
