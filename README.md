@@ -48,7 +48,7 @@ Clone this repo
 
 ```
 git clone https://github.com/gab0071/web-development--project
-cd Web-Development-Project
+cd web-development--project
 ```
 Then install dependencies
 
